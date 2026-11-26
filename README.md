@@ -29,4 +29,5 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 🛡️ License
 
+
 MIT. Use it, change it, share it, with attribution.
